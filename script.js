@@ -39,7 +39,6 @@ video.addEventListener('timeupdate', () => {
 // End of Section 2 video
 
 // Section 3 Pricing Carts
-
 var swiper = new Swiper('.swiper-container', {
     effect: 'coverflow',
     grabCursor: true,
@@ -53,5 +52,4 @@ var swiper = new Swiper('.swiper-container', {
         slideShadows: true,
     },
 });
-
 // End of Section 3 Pricing Carts
