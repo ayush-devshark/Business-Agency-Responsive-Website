@@ -2,7 +2,7 @@
 
 -   Have Playable Video, built with vanilla javascript.
 -   Cool Animations and button hover effects.
--   Swwping Card feature using Swiper js library
+-   Swping Card feature using Swiper js library
 
 ## Tech Stack
 
